@@ -1,0 +1,32 @@
+aid: open-government-austria
+name: Open Government, Austria
+description: "Austria Government Open Data"
+url: https://www.data.gv.at/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Government"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Government
+  - Public APIs
+apis:
+  - name: Open Government, Austria
+    description: "Austria Government Open Data"
+    humanURL: https://www.data.gv.at/
+    baseURL: https://www.data.gv.at/
+    tags:
+      - Government
+    properties:
+      - type: Documentation
+        url: https://www.data.gv.at/
+common:
+  - type: Website
+    url: https://www.data.gv.at/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
