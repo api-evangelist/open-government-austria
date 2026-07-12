@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.data.gv.at/
 common:
+  - type: DomainSecurity
+    url: security/open-government-austria-domain-security.yml
   - type: Website
     url: https://www.data.gv.at/
   - type: PublicAPIsListing
