@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Austria
     description: "Austria Government Open Data"
     humanURL: https://www.data.gv.at/
-    baseURL: https://www.data.gv.at/
     tags:
       - Government
     properties:
