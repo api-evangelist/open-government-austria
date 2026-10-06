@@ -27,7 +27,7 @@ description: "Austria Government Open Data"
 url: https://www.data.gv.at/
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Government"
 x-tier: 3
@@ -45,6 +45,8 @@ apis:
       - type: Documentation
         url: https://www.data.gv.at/
 common:
+  - url: https://www.data.gv.at/news/
+    type: Blog
   - type: DomainSecurity
     url: security/open-government-austria-domain-security.yml
   - type: Website
