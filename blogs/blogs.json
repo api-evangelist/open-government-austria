@@ -1,0 +1,14 @@
+{
+  "repo": "open-government-austria",
+  "feeds": [
+    {
+      "source": "https://www.data.gv.at/news/",
+      "feed_url": "https://www.data.gv.at/news/rss/",
+      "title": "",
+      "saved": 1,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 1,
+  "fetched": "2026-10-10T13:15:00Z"
+}
